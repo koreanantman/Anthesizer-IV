@@ -1,0 +1,41 @@
+{
+	"pattrstorage" : 	{
+		"name" : "u527004626",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"tropiwav_bp[3]::envelope" : [ 1000.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 45.212765957446805, 1.0, 0, 0.0, 1000.0, 0.0, 0, -0.7, "curve" ],
+					"tropiwav_bp[3]::live.dial" : [ 1.5625 ],
+					"tropiwav_bp[3]::live.dial[1]" : [ 3.0 ],
+					"tropiwav_bp[3]::wave-type" : [ "basis", "noise.value.cubicspline" ],
+					"tropiwav_bp[2]::envelope" : [ 1000.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 374.193548387096769, 1.0, 0, 0.7, 470.967741935483843, 1.0, 0, 0.0, 503.225806451612925, 0.0, 0, 0.0, 670.9677419354839, 0.0, 0, 0.0, 812.903225806451587, 1.0, 0, 0.0, 1000.0, 0.0, 0, -0.7, "curve" ],
+					"tropiwav_bp[2]::live.dial" : [ 1.5625 ],
+					"tropiwav_bp[2]::live.dial[1]" : [ 3.0 ],
+					"tropiwav_bp[2]::wave-type" : [ "basis", "fractal.turbulence" ],
+					"tropiwav_bp[1]::envelope" : [ 1000.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 851.612903225806463, 1.0, 0, 0.795, 935.48387096774195, 1.0, 0, 0.695, 1000.0, 0.0, 0, 0.25, "curve" ],
+					"tropiwav_bp[1]::live.dial" : [ 1.5625 ],
+					"tropiwav_bp[1]::live.dial[1]" : [ 3.0 ],
+					"tropiwav_bp[1]::wave-type" : [ "basis", "noise.cell" ],
+					"tropiwav_bp::envelope" : [ 1000.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 90.322580645161295, 1.0, 0, 0.0, 225.806451612903231, 0.0, 0, 0.0, 329.032258064516157, 0.974358974358974, 0, 0.0, 561.290322580645125, 0.0, 0, -0.45, 800.0, 1.0, 0, 0.4, 1000.0, 0.0, 0, -0.7, "curve" ],
+					"tropiwav_bp::live.dial" : [ 1.5625 ],
+					"tropiwav_bp::live.dial[1]" : [ 3.0 ],
+					"tropiwav_bp::wave-type" : [ "basis", "distance.chebychev" ],
+					"bp.Gigaverb::Damp" : [ 0.7 ],
+					"bp.Gigaverb::Dry" : [ 1.0 ],
+					"bp.Gigaverb::Early" : [ 0.25 ],
+					"bp.Gigaverb::Regen" : [ 0.5 ],
+					"bp.Gigaverb::Size" : [ 74.999999999999972 ],
+					"bp.Gigaverb::Spread" : [ 23.0 ],
+					"bp.Gigaverb::Tail" : [ 0.25 ],
+					"bp.Gigaverb::Time" : [ 11.0 ],
+					"bp.Gigaverb::bypass" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
